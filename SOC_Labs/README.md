@@ -4,4 +4,4 @@ Hands-on cybersecurity labs completed to develop practical skills in security op
 
 These labs simulate real-world attack scenarios, helping me strengthen my understanding of both offensive techniques and defensive security practices.
 
-✨ Turning theory into practice, one investigation at a time.
+✨ Turning theory into practice, one investigation at a time. 
