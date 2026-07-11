@@ -12,9 +12,9 @@ I am a Cybersecurity graduate passionate about Security Operations, Incident Res
 
 Investigation Reports | SOC Labs | Dashboards | Certificates
 
-## Certificates
+## Investigation Reports
 
-This section contains professional cybersecurity certifications and courses completed from various training providers.
+Technical investigation reports documenting security incidents.
 
 ## SOC Labs
 
@@ -24,9 +24,9 @@ Hands-on cybersecurity labs completed to develop practical skills.
 
 Custom dashboards created for monitoring and investigating security events using SIEM platforms.
 
-## Investigation Reports
+## Certificates
 
-Technical investigation reports documenting security incidents.
+This section contains professional cybersecurity certifications and courses completed from various training providers.
 
 ## 📫 Connect With Me
 
