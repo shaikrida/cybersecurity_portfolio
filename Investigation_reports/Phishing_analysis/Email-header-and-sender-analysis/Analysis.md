@@ -1,6 +1,6 @@
 # Email Header and Sender Analysis
 
-## OVERVIEW
+## Overview
 
 | Field | Details |
 |-------|---------|
@@ -15,7 +15,7 @@
 
 ---
 
-## SCENARIO DESCRIPTION
+## Scenario Description
 
 The email claims to be from Chase Online Services regarding the blocking of a bank account due to unusual activities and contains an attachment that supposedly restores access to the account.
 
@@ -47,9 +47,20 @@ The email claims to be from Chase Online Services regarding the blocking of a ba
 | 11-07-2026 00:46:58 | Date | Wed, 01 May 2024 20:04:05 +0000 | Email sent timestamp |
 | 11-07-2026 00:47:02 | Subject | Your Bank Account has been blocked due to unusual activities | Phishing lure |
 | 11-07-2026 00:47:03 | Message-ID | `<i7g9MMh5NtErtaOzQZEp3D-i-u3FWwdo0wY5mhD8Q1vIvv1yeLj...@protonmail.com>` | Unique email identifier |
-| 11-07-2026 00:47:05 | X-Sender-IP | 185.70.40.140 | Sender server IP |
+| 11-07-2026 00:47:05 | Return-path | kellyellin426@proton.me | Receiver address
+| 11-07-2026 00:47:07 | X-Sender-IP | 185.70.40.140 | Sender server IP |
 
 ---
+
+## Indicators of Compromise (IOCs)
+
+| Indicator Type | Value | Significance |
+|----------------|-------|-------|
+| **Sender IP** | `185.70.40.140` | Originating IP address owned by **Proton AG**, not Chase |
+| **Spoofed Sender Domain** | `chase.com` (claimed) | Displayed in the **From** field but does not match the actual sending source |
+| **Actual Sending Domain** | `protonmail.com` | Confirmed through **Received** header chain |
+| **Reply-To Address** | `kellyellin426@proton.me` | Personal email address unrelated to Chase |
+| **Subject Line** | `Your Bank Account has been blocked due to unusual activities` | Urgency based social engineering tactic to prompt immediate action |
 
 ## Analysis
 
