@@ -1,7 +1,7 @@
-# 🧪 SOC Labs
+## 🧪 SOC Labs
 
-This directory contains hands-on cybersecurity labs completed to develop practical skills.
+A collection of hands-on cybersecurity labs completed to develop practical skills in security operations, threat detection, log analysis, and incident investigation.
 
-The labs simulate real-world attack scenarios and provide experience with security tools, attack techniques, and defensive investigations commonly performed in a Security Operations Center (SOC).
+These labs simulate real-world attack scenarios, helping me strengthen my understanding of both offensive techniques and defensive security practices.
 
-> 🚀 **Turning theory into practice, one investigation at a time.**
+✨ Turning theory into practice, one investigation at a time.
