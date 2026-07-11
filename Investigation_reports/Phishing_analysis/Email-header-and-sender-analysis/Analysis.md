@@ -62,7 +62,7 @@ The email claims to be from Chase Online Services regarding the blocking of a ba
 |----------------|-------|-------|
 | **Sender IP** | `185.70.40.140` | Originating IP address owned by **Proton AG**, not Chase |
 | **Spoofed Sender Domain** | `chase.com` (claimed) | Displayed in the **From** field but does not match the actual sending source |
-| **Actual Sending Domain** | `protonmail.com` | Confirmed through **Received** header chain |
+| **Actual Sender Domain** | `protonmail.com` | Confirmed through **Received** header chain |
 | **Reply-To Address** | `kellyellin426@proton.me` | Personal email address unrelated to Chase |
 | **Subject Line** | `Your Bank Account has been blocked due to unusual activities` | Urgency based social engineering tactic to prompt immediate action |
 
