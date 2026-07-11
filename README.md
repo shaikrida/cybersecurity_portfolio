@@ -10,7 +10,6 @@ I am a Cybersecurity graduate passionate about Security Operations, Incident Res
 
 ## Repository Structure
 
-📦 Cybersecurity Portfolio
 Investigation Reports | SOC Labs | Dashboards | Certificates
 
 ## Certificates
