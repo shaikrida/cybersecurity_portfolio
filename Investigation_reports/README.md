@@ -1,6 +1,6 @@
 # 📑 Investigation Reports
 
-A collection of technical investigation reports documenting cybersecurity incidents, digital forensic analysis, threat investigations, and incident response activities.
+Technical investigation reports documenting cybersecurity incidents, digital forensic analysis, threat investigations, and incident response activities.
 
 Each report follows a structured investigative approach, focusing on evidence collection, analysis, findings, and actionable recommendations.
 
