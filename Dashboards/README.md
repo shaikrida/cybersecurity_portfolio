@@ -1,4 +1,4 @@
-# 📊 SIEM Dashboards
+# SIEM Dashboards
 
 Custom SIEM dashboards created to visualize, monitor, and investigate security events using ELK Stack and Security Onion.
 
