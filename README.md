@@ -8,27 +8,24 @@ This repository showcases my hands-on experience, investigations, SIEM dashboard
 
 I am a Cybersecurity graduate passionate about Security Operations, Incident Response, Digital Forensics, and Threat Detection. I enjoy investigating security incidents, analyzing logs, and working with SIEM platforms to identify and respond to cyber threats.
 
-## 📂 Repository Structure
+## Repository Structure
 
 📦 Cybersecurity Portfolio
-├── 📑 Investigation Reports
-├── 🧪 SOC Labs
-├── 📊 Dashboards
-├── 📜 Certificates
+Investigation Reports | SOC Labs | Dashboards | Certificates
 
-## 📜 Certificates
+## Certificates
 
 This section contains professional cybersecurity certifications and courses completed from various training providers.
 
-## 🧪 SOC Labs
+## SOC Labs
 
 Hands-on cybersecurity labs completed to develop practical skills.
 
-## 📊 Dashboards
+## Dashboards
 
 Custom dashboards created for monitoring and investigating security events using SIEM platforms.
 
-## 📑 Investigation Reports
+## Investigation Reports
 
 Technical investigation reports documenting security incidents.
 
