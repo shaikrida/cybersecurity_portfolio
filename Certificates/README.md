@@ -1,4 +1,4 @@
-## 📜 Certificates
+## Certificates
 
 A collection of certificates earned through courses, challenges, and learning programs.
 
