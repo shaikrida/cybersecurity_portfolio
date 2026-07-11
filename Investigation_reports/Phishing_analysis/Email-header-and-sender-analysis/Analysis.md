@@ -4,7 +4,6 @@
 
 | Field | Details |
 |-------|---------|
-| **Incident ID** | IR-2026-01 |
 | **Scenario** | Email Header and Sender Analysis |
 | **Date** | 10 July 2026 |
 | **Analyst** | Shaik Rida |
