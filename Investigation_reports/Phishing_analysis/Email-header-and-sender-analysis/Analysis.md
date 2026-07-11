@@ -51,6 +51,10 @@ The email claims to be from Chase Online Services regarding the blocking of a ba
 | 11-07-2026 00:47:07 | X-Sender-IP | 185.70.40.140 | Sender server IP |
 
 ---
+## Analysis
+
+1. Analysis of the raw email headers exposed the true **From**, **Return-Path**, and **Received** fields that are hidden in the normal email view.
+2. The WHOIS lookup identified the owner of the originating IP address, **185.70.40.140**, while the Message Header Analyzer confirmed the complete email delivery path. Together, these findings revealed that the email did not originate from the claimed **Chase Online Services** domain. Instead, the sender IP belonged to **Proton Technologies**, indicating that the email was sent from a spoofed server.
 
 ## Indicators of Compromise (IOCs)
 
@@ -61,11 +65,6 @@ The email claims to be from Chase Online Services regarding the blocking of a ba
 | **Actual Sending Domain** | `protonmail.com` | Confirmed through **Received** header chain |
 | **Reply-To Address** | `kellyellin426@proton.me` | Personal email address unrelated to Chase |
 | **Subject Line** | `Your Bank Account has been blocked due to unusual activities` | Urgency based social engineering tactic to prompt immediate action |
-
-## Analysis
-
-1. Analysis of the raw email headers exposed the true **From**, **Return-Path**, and **Received** fields that are hidden in the normal email view.
-2. The WHOIS lookup identified the owner of the originating IP address, **185.70.40.140**, while the Message Header Analyzer confirmed the complete email delivery path. Together, these findings revealed that the email did not originate from the claimed **Chase Online Services** domain. Instead, the sender IP belonged to **Proton Technologies**, indicating that the email was sent from a spoofed server.
 
 ---
 
