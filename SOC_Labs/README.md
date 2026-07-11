@@ -1,4 +1,4 @@
-## 🧪 SOC Labs
+## SOC Labs
 
 Hands-on cybersecurity labs completed to develop practical skills in security operations, threat detection, log analysis, and incident investigation.
 
