@@ -1,4 +1,4 @@
-# 📑 Investigation Reports
+# Investigation Reports
 
 Technical investigation reports documenting cybersecurity incidents, digital forensic analysis, threat investigations, and incident response activities.
 
