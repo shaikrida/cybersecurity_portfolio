@@ -1,5 +1,7 @@
 # 📑 Investigation Reports
 
-This directory contains technical investigation reports documenting cybersecurity incidents, forensic analysis, threat investigations, and incident response activities performed during hands-on exercises.
+A collection of technical investigation reports documenting cybersecurity incidents, digital forensic analysis, threat investigations, and incident response activities.
+
+Each report follows a structured investigative approach, focusing on evidence collection, analysis, findings, and actionable recommendations.
 
 🚀 Every investigation tells a story - evidence revealing the truth.
