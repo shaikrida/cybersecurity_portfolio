@@ -54,7 +54,7 @@ The email claims to be from Chase Online Services regarding the blocking of a ba
 ## Analysis
 
 1. Analysis of the raw email headers exposed the true **From**, **Return-Path**, and **Received** fields that are hidden in the normal email view.
-2. The WHOIS lookup identified the owner of the originating IP address (**185.70.40.140**), while the Message Header Analyzer confirmed the complete email delivery path. Together, these findings revealed that the email did not originate from the claimed **Chase Online Services** domain. Instead, the sender IP belonged to **Proton Technologies**, indicating that the email was sent from a spoofed server.
+2. The WHOIS lookup identified the owner of the originating IP address, **185.70.40.140**, while the Message Header Analyzer confirmed the complete email delivery path. Together, these findings revealed that the email did not originate from the claimed **Chase Online Services** domain. Instead, the sender IP belonged to **Proton Technologies**, indicating that the email was sent from a spoofed server.
 
 ---
 
@@ -62,7 +62,7 @@ The email claims to be from Chase Online Services regarding the blocking of a ba
 
 | Technique ID | Technique Name |
 |--------------|----------------|
-| T1566.001 | Spearphishing Attachment |
+| T1566.001 | Spear phishing Attachment |
 | T1204.002 | User Execution: Malicious File |
 
 ---
