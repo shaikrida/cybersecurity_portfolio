@@ -1,4 +1,4 @@
-# 📧 Email Header and Sender Analysis
+# Email Header and Sender Analysis
 
 ## OVERVIEW
 
