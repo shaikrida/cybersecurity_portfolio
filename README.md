@@ -10,7 +10,15 @@ I am a Cybersecurity graduate passionate about Security Operations, Incident Res
 
 ## Repository Structure
 
-Investigation Reports | SOC Labs | Dashboards | Certificates
+Certificates | Dashboards | Investigation Reports | SOC Labs 
+
+## Certificates
+
+This section contains professional cybersecurity certifications and courses completed from various training providers.
+
+## Dashboards
+
+Custom dashboards created for monitoring and investigating security events using SIEM platforms.
 
 ## Investigation Reports
 
@@ -20,13 +28,9 @@ Technical investigation reports documenting security incidents.
 
 Hands-on cybersecurity labs completed to develop practical skills.
 
-## Dashboards
 
-Custom dashboards created for monitoring and investigating security events using SIEM platforms.
 
-## Certificates
 
-This section contains professional cybersecurity certifications and courses completed from various training providers.
 
 ## 📫 Connect With Me
 
