@@ -1,4 +1,4 @@
-# 📧 Email Content Analysis
+# Email Content Analysis
 
 ## Overview
 
