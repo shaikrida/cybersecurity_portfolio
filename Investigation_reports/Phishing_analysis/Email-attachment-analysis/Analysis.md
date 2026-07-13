@@ -42,11 +42,11 @@ The email claims to be from **@moss.it** with the subject **"Due Invoice Payment
 | Time | Field | Value | Significance |
 |------|-------|-------|--------------|
 | 13-07-2026 22:11:51 | From | Paolo Reggiani \<Paol.Reggiani@moss.it\> | Claimed sender identity |
-| 13-07-2026 22:11:52 | To | wpx@protonmail.com | Target recipient email |
-| 13-07-2026 22:11:53 | Date | 14 Jan 2020 00:06:05 -0800 | Email sent timestamp |
-| 13-07-2026 22:11:54 | Subject | FW: Due Invoice Payment - protonmail.com - Wire Transfer Document | Phishing lure |
-| 13-07-2026 22:11:55 | X-Attached | quotation.iso | Suspicious attachment |
-| 13-07-2026 22:11:56 | File Hashes | **SHA256:** `75fdb848eac332b4ca7d88f497e7ba7ebbb9a798d825b28cf1f87b9d7149e87f`<br>**SHA1:** `3fe45f8cd20cd7c63e55e3918dac1d3a0d7fb05a`<br>**MD5:** `6aef1d7f88e8aa450a0c604b4caee5ba` | Hashes of the attachment file |
+| 13-07-2026 22:11:53 | To | wpx@protonmail.com | Target recipient email |
+| 13-07-2026 22:11:56 | Date | 14 Jan 2020 00:06:05 -0800 | Email sent timestamp |
+| 13-07-2026 22:11:60 | Subject | FW: Due Invoice Payment - protonmail.com - Wire Transfer Document | Phishing lure |
+| 13-07-2026 22:12:02 | X-Attached | quotation.iso | Suspicious attachment |
+| 13-07-2026 22:14:11 | File Hashes | **SHA256:** `75fdb848eac332b4ca7d88f497e7ba7ebbb9a798d825b28cf1f87b9d7149e87f`<br>**SHA1:** `3fe45f8cd20cd7c63e55e3918dac1d3a0d7fb05a`<br>**MD5:** `6aef1d7f88e8aa450a0c604b4caee5ba` | Hashes of the attachment file |
 
 ---
 
