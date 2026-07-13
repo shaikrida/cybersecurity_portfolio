@@ -17,8 +17,6 @@
 
 ## Scenario Description
 
-**sample1.eml**
-
 The email claims to be from Chase Online Services regarding the blocking of a bank account due to unusual activities and contains an attachment that supposedly restores access to the account.
 
 ---
