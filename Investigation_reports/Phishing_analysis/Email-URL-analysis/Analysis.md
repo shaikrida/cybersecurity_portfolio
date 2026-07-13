@@ -59,10 +59,6 @@ The email claims to be from Chase Online Services regarding the blocking of a ba
 
 ---
 
-## Indicators of Compromise (IOCs)
-
----
-
 ## MITRE ATT&CK Mapping
 
 | Technique ID | Technique Name |
