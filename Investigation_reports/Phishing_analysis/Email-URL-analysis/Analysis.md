@@ -53,7 +53,7 @@ The email claims to be from Chase Online Services regarding the blocking of a ba
 
 ## Analysis
 
-1. Though the sender domain spoofed as it does not match with the claimed identity on checking the IP address, the URL seems to be legitimate as analysed by the tools.
+Though the sender domain spoofed as it does not match with the claimed identity on checking the IP address, the URL seems to be legitimate as analysed by the tools.
 
 ---
 
@@ -88,5 +88,4 @@ The URL embedded in the email was extracted, decoded from the Content-Transfer-E
 ---
 
 **Investigated by:** Shaik Rida
-
 **Role:** SOC Analyst
