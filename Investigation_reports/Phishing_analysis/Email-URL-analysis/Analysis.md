@@ -87,6 +87,5 @@ The URL embedded in the email was extracted, decoded from the Content-Transfer-E
 
 ---
 
-**Investigated by:** Shaik Rida 
-
+**Investigated by:** Shaik Rida  
 **Role:** SOC Analyst
