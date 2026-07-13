@@ -23,9 +23,9 @@ The email claims to be from Chase Online Services regarding the blocking of a ba
 
 ## Attack Narrative
 
-1. Victim receives an email impersonating Chase Online Services.
+1. An email impersonating Chase Online Services is received.
 2. The email creates urgency by stating the account has been temporarily suspended.
-3. The victim is instructed to open the attachment to reactivate and verify the account.
+3. The recipient is instructed to open the attachment to reactivate and verify the account.
 
 ---
 
