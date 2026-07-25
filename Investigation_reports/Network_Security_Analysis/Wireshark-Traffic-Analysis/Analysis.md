@@ -76,5 +76,4 @@ The packet capture analysis identified suspicious network activity, including th
 ---
 
 **Investigated by:** Shaik Rida
-
 **Role:** SOC Analyst
