@@ -14,6 +14,15 @@
 
 ---
 
+## Traffic Analysis
+
+| Protocol | Observation |
+|----------|-------------|
+| HTTP | A `.dat` file was downloaded from the remote server. |
+| ICMP | Two Echo Requests and two Echo Replies were observed between the communicating hosts. |
+
+---
+
 ## Findings
 
 - **Capture Duration:** 02:52:06
@@ -23,15 +32,6 @@
 - **Port Observed:** 80
 - **Downloaded File:** `86607.dat`
 - **SHA256 Hash:** `713207d9d9875ec88d2f3a53377bf8c2d620147a4199eb183c13a7e957056432`
-
----
-
-## Traffic Analysis
-
-| Protocol | Observation |
-|----------|-------------|
-| HTTP | A `.dat` file was downloaded from the remote server. |
-| ICMP | Two Echo Requests and two Echo Replies were observed between the communicating hosts. |
 
 ---
 
