@@ -17,7 +17,8 @@
 
 | Command                          | Description                                                | Screenshot            |
 | -------------------------------- | ---------------------------------------------------------- | --------------------- |
-| `file access.log`                | Identifies the file type and format of `access.log`.       | <img width="641" height="48" alt="image" src="https://github.com/user-attachments/assets/cc6bdbf1-c694-414d-89ab-a252c00863f7" />
+| `file access.log`                | Identifies the file type and format of `access.log`.       | <img width="1112" height="541" alt="image" src="https://github.com/user-attachments/assets/29a6771a-b3f0-4f84-9b0a-a6937a960692" />
+
  |
 | `head access.log`                | Displays the first 10 lines of the log file.               | *(Insert Screenshot)* |
 | `tail access.log`                | Displays the last 10 lines of the log file.                | *(Insert Screenshot)* |
