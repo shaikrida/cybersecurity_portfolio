@@ -17,7 +17,8 @@
 
 | Command                          | Description                                                | Screenshot            |
 | -------------------------------- | ---------------------------------------------------------- | --------------------- |
-| `file access.log`                | Identifies the file type and format of `access.log`.       | *(Insert Screenshot)* |
+| `file access.log`                | Identifies the file type and format of `access.log`.       | <img width="641" height="48" alt="image" src="https://github.com/user-attachments/assets/cc6bdbf1-c694-414d-89ab-a252c00863f7" />
+ |
 | `head access.log`                | Displays the first 10 lines of the log file.               | *(Insert Screenshot)* |
 | `tail access.log`                | Displays the last 10 lines of the log file.                | *(Insert Screenshot)* |
 | `wc -l access.log`               | Counts the total number of log entries.                    | *(Insert Screenshot)* |
