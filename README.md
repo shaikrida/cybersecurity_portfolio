@@ -10,11 +10,15 @@ I am a Cybersecurity graduate passionate about Security Operations, Incident Res
 
 ## Repository Structure
 
-Certificates | Dashboards | Investigation Reports | SOC Labs 
+Certificates | Challenges | Dashboards | Detection Rules | Investigation Reports | SOC Labs 
 
 ## Certificates
 
 This section contains professional cybersecurity certifications and courses completed from various training providers.
+
+## Challenges
+
+Cybersecurity challenges completed through hands-on labs, investigations, and practical security exercises.
 
 ## Dashboards
 
@@ -22,7 +26,7 @@ Custom dashboards created for monitoring and investigating security events using
 
 ## Detection Rules
 
-A collection of custom detection rules developed to identify malicious activity, suspicious behavior, and common attack techniques.
+Custom detection rules developed to identify malicious activity, suspicious behavior, and common attack techniques.
 
 ## Investigation Reports
 
