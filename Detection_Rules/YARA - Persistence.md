@@ -23,8 +23,5 @@ rule persistence
 }
 ```
 
-## Screenshot
-
-![YARA Persistence Detection](images/persistence.png)
-
-Investi
+Investigated by: Shaik Rida
+Role: SOC Analyst
