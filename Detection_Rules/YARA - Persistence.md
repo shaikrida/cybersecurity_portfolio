@@ -22,6 +22,9 @@ rule persistence
         any of them
 }
 ```
+## Screenshot
+<img width="650" height="279" alt="image" src="https://github.com/user-attachments/assets/5c214580-74c7-4f1f-811c-47cb4f10f5c0" />
+
 
 Investigated by: Shaik Rida  
 Role: SOC Analyst
