@@ -23,7 +23,8 @@ rule persistence
 }
 ```
 ## Screenshot
-<img width="650" height="279" alt="image" src="https://github.com/user-attachments/assets/5c214580-74c7-4f1f-811c-47cb4f10f5c0" />
+<img width="645" height="279" alt="image" src="https://github.com/user-attachments/assets/6ec205ee-3283-4860-b7fb-e2788dda7247" />
+
 
 
 Investigated by: Shaik Rida  
