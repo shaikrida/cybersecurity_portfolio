@@ -20,6 +20,10 @@ This section contains professional cybersecurity certifications and courses comp
 
 Custom dashboards created for monitoring and investigating security events using SIEM platforms.
 
+## Detection Rules
+
+A collection of custom detection rules developed to identify malicious activity, suspicious behavior, and common attack techniques.
+
 ## Investigation Reports
 
 Technical investigation reports documenting security incidents.
