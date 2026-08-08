@@ -27,5 +27,7 @@ rule persistence
 
 
 
+
+
 Investigated by: Shaik Rida  
 Role: SOC Analyst
