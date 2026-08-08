@@ -8,6 +8,20 @@ The rule was created to detect indicators associated with the simulated multi-st
 
 ```yara
 rule multistage_aptattack
+{
+    meta:
+        description = "combined attacker patterns"
+        author = "rshaik"
+
+    strings:
+        $a = "ssh"
+        $b = "cron"
+        $c = "sudo"
+        $d = "dns"
+
+    condition:
+        3 of them
+}
 ```
 
 ## Screenshot
